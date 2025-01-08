@@ -1,12 +1,8 @@
 {
-  "name": "maintenance-site",
+  "name": "maintenance_html",
   "version": "1.0.0",
   "description": "A simple site displaying a maintenance message",
   "main": "index.html",
   "scripts": {
     "build": "echo 'No build step required for this maintenance page'"
-  },
-  "keywords": ["maintenance", "site"],
-  "author": "",
-  "license": "ISC"
 }
