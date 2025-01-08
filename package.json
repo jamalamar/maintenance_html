@@ -5,4 +5,10 @@
   "main": "index.html",
   "scripts": {
     "build": "echo 'No build step required for this maintenance page'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["maintenance", "static-site"],
+  "author": "",
+  "license": "ISC"
 }
